@@ -596,3 +596,467 @@ According to the lecture:
 * Average salary: $95,000
 
 This growth reflects the increasing importance of mobile technologies worldwide.
+
+# 31) What is the design process?
+
+## Answer:
+
+The design process is a collection of procedures and habits that help teams create better and more effective products. It provides a structured approach for transforming ideas into successful hardware or software systems. 
+
+---
+
+# 32) Explain the process of design.
+
+## Answer:
+
+Designing is the process of making multiple decisions that convert an abstract concept into a real hardware or software product. The process transforms ideas into practical and functional systems. 
+
+---
+
+# 33) What are the seven steps of the design process?
+
+## Answer:
+
+The seven-step design process includes:
+
+1. Problem Definition (PDS)
+2. External Search (Research)
+3. Internal Search (Brainstorming)
+4. Evaluation and Selection
+5. Detail Design (Engineering)
+6. Prototyping
+7. Documentation
+
+These steps help organize and improve product development. 
+
+---
+
+# 34) What are Product Design Specifications (PDS)?
+
+## Answer:
+
+Product Design Specifications (PDS) are detailed requirements that define what a product should achieve according to customer needs and engineering standards.
+
+PDS converts customer expectations into measurable technical requirements that guide the design process. 
+
+---
+
+# 35) Differentiate between customer needs and engineering specifications.
+
+## Answer:
+
+| Customer Needs                | Engineering Specifications                 |
+| ----------------------------- | ------------------------------------------ |
+| Describe what users want      | Describe measurable technical requirements |
+| Often general and qualitative | Specific and quantitative                  |
+| Example: “Looks good”         | Example: “Luminosity more than 5W”         |
+| Example: “Safe”               | Example: “No removable small parts”        |
+| Focus on user satisfaction    | Focus on technical implementation          |
+
+Engineering specifications translate customer desires into measurable targets. 
+
+---
+
+# 36) What are specifications in software and hardware projects?
+
+## Answer:
+
+Specifications are written lists of requirements that define what a project or product must accomplish.
+
+Specifications:
+
+* Do not describe how the product will be built.
+* Clearly state the purpose of the project.
+* Are written in third person.
+* Include measurable requirements.
+
+Specifications act as a roadmap for development. 
+
+---
+
+# 37) What are the characteristics of a good specifications document?
+
+## Answer:
+
+A good specifications document should:
+
+* Clearly define project requirements.
+* State the purpose of the project.
+* Avoid specifying exact components.
+* Be written in third person.
+* Include measurable and verifiable targets.
+* Use tables or drawings when necessary.
+
+It should explain what the final system will do clearly and specifically. 
+
+---
+
+# 38) Explain engineering specifications.
+
+## Answer:
+
+Engineering specifications convert general concepts into measurable and verifiable technical targets.
+
+For example:
+
+* “Fast” becomes response time or speed measurements.
+* “Portable” becomes weight or size limitations.
+* “Safe” becomes specific safety requirements.
+
+Engineering specifications give designers measurable goals and greater flexibility during design. 
+
+---
+
+# 39) Give examples of hardware specifications.
+
+## Answer:
+
+Examples of hardware specifications include:
+
+* Battery life: 6 months continuous use
+* Solar charging time: less than 6 hours
+* Display resolution: minimum 800×600 pixels
+* Communication range: 200 feet
+* Maximum weight: 15 lbs
+* Waterproof to 20 feet
+* Survive a 10-foot drop
+* Memory: minimum 512MB RAM
+* Boot-up time: maximum 5 seconds
+
+These specifications define measurable hardware performance requirements. 
+
+---
+
+# 40) Give examples of software specifications.
+
+## Answer:
+
+Examples of software specifications include:
+
+* User registration and login
+* Password recovery
+* Product display by reviews or price
+* Online payment support
+* Serving 10,000 requests per second
+* Availability of 99.9%
+* Response latency below 500ms
+* Notification systems via email or SMS
+
+These define software functionality and performance. 
+
+---
+
+# 41) Give examples of mobile application specifications.
+
+## Answer:
+
+Mobile application specifications may include:
+
+* Screen and view design
+* Navigation style
+* Portrait and landscape support
+* Swipe and motion controls
+* Speech recognition
+* Social media integration
+* Server integration
+* Offline operation
+* Push notifications
+* Geo-location services
+* In-app purchases
+
+These specifications describe mobile app behavior and user experience. 
+
+---
+
+# 42) What should be included in a project proposal reminder?
+
+## Answer:
+
+A project proposal should include:
+
+1. Project title
+2. Team members
+3. Problem description
+4. Solution description
+5. Technical details
+6. Hardware and software requirements
+7. Required or acquired skills
+8. Wireframes or design documents
+
+These elements help explain and organize the project clearly. 
+
+---
+
+# 43) Compare between sketches, wireframes, and prototypes.
+
+## Answer:
+
+| Sketches            | Wireframes             | Prototypes                |
+| ------------------- | ---------------------- | ------------------------- |
+| Explore ideas       | Refine ideas           | Test ideas                |
+| Low detail          | Low-fidelity structure | Medium/High fidelity      |
+| Brainstorming stage | Layout and structure   | Interactive testing       |
+| Quick drawings      | Basic UI guide         | Preliminary working model |
+
+Each stage improves the design progressively. 
+
+---
+
+# 44) What is a wireframe?
+
+## Answer:
+
+A wireframe is a rough skeletal framework of a website or application.
+
+It is commonly represented using:
+
+* Gray lines
+* Boxes
+* Placeholders
+
+Wireframes are used during brainstorming and early design stages to organize layouts and interfaces. 
+
+---
+
+# 45) What are the goals of a wireframe?
+
+## Answer:
+
+A wireframe has three main goals:
+
+1. Present the main page contents
+2. Outline page structure and layout
+3. Display the basic user interface elements
+
+It acts like the blueprint of an application or website. 
+
+---
+
+# 46) What is a mockup?
+
+## Answer:
+
+A mockup is a static but visually detailed representation of a website or application.
+
+Unlike wireframes, mockups contain:
+
+* Colors
+* Typography
+* Graphics
+* Actual buttons
+* Real layouts
+
+Mockups provide a realistic preview of the final product. 
+
+---
+
+# 47) What are the characteristics of a mockup?
+
+## Answer:
+
+Mockups include:
+
+* Rich colors and styles
+* Typography
+* Graphics
+* Actual buttons and text
+* Content layouts
+* Navigation graphics
+* Component spacing
+
+They are useful for communication and collaboration during later design stages. 
+
+---
+
+# 48) Explain the relationship between sketches, wireframes, and prototypes.
+
+## Answer:
+
+The design process progresses through several stages:
+
+1. Sketches explore ideas and brainstorm concepts.
+2. Wireframes organize layout and user flow.
+3. Prototypes provide refined and interactive versions for testing.
+
+These stages gradually improve design quality and usability. 
+
+---
+
+# 49) Explain the concept of a blueprint in design.
+
+## Answer:
+
+A blueprint is a technical drawing or engineering plan that specifies how a structure or system should be built.
+
+In software and UI design, wireframes often act as blueprints for developers and designers. 
+
+---
+
+# 50) What is a prototype?
+
+## Answer:
+
+A prototype is an early version or model of a system used to test ideas, functionality, and user interaction before full implementation.
+
+Prototypes may be:
+
+* Physical models
+* Interactive software
+* Storyboards
+* Videos
+* Mock interfaces
+
+They help designers evaluate and improve systems early. 
+
+---
+
+# 51) Give examples of prototypes.
+
+## Answer:
+
+Examples of prototypes include:
+
+* Photoshop screen designs
+* Storyboards
+* PowerPoint slide shows
+* HTML pages
+* Videos simulating systems
+* Cardboard models
+* Limited-function software
+
+Different prototype types serve different testing purposes. 
+
+---
+
+# 52) Why is prototyping important?
+
+## Answer:
+
+Prototyping is important because it:
+
+* Supports evaluation and feedback
+* Allows users to interact with designs
+* Helps designers test ideas
+* Encourages reflection and improvement
+* Helps compare alternatives
+
+Prototypes answer important design questions before implementation. 
+
+---
+
+# 53) Compare between horizontal and vertical prototyping.
+
+## Answer:
+
+| Horizontal Prototyping       | Vertical Prototyping            |
+| ---------------------------- | ------------------------------- |
+| Covers many functions        | Covers few functions            |
+| Less detail                  | High detail                     |
+| Broad system overview        | Deep functionality testing      |
+| Focus on navigation and flow | Focus on implementation details |
+
+Both methods are used depending on project goals. 
+
+---
+
+# 54) Explain horizontal prototyping.
+
+## Answer:
+
+Horizontal prototyping provides a broad representation of many system functions with limited detail.
+
+In mobile applications, it focuses on:
+
+* Screens and views
+* Navigation flow
+* User interaction structure
+
+It is useful for testing application organization and usability. 
+
+---
+
+# 55) Explain vertical prototyping.
+
+## Answer:
+
+Vertical prototyping focuses deeply on a small number of features with detailed functionality.
+
+It is useful for:
+
+* Testing specific features
+* Evaluating detailed interactions
+* Simulating real functionality
+
+Vertical prototypes often resemble real systems more closely. 
+
+---
+
+# 56) What is the Wizard of Oz (WoZ) technique?
+
+## Answer:
+
+The Wizard of Oz technique is a method for testing systems that do not fully exist yet.
+
+A human secretly simulates the system responses while users believe they are interacting with a real automated system. 
+
+---
+
+# 57) How does the Wizard of Oz technique work?
+
+## Answer:
+
+In the Wizard of Oz method:
+
+* A human “wizard” interprets user inputs.
+* The wizard manually controls system responses.
+* Users interact with what appears to be a real system.
+
+The wizard may be hidden or visible during testing. 
+
+---
+
+# 58) What are the advantages of the Wizard of Oz technique?
+
+## Answer:
+
+The Wizard of Oz technique is useful for:
+
+* Testing futuristic ideas
+* Simulating complex functionality
+* Evaluating user reactions early
+* Reducing development cost before full implementation
+
+It helps validate ideas before building actual systems. 
+
+---
+
+# 59) Compare between prototypes and wireframes.
+
+## Answer:
+
+| Prototypes                 | Wireframes                        |
+| -------------------------- | --------------------------------- |
+| Interactive                | Usually static                    |
+| Intended for end users     | Intended for designers/developers |
+| Used for testing           | Used for planning                 |
+| Higher fidelity            | Lower fidelity                    |
+| Simulates real interaction | Focuses on layout and structure   |
+
+Wireframes can sometimes act as simple low-fidelity prototypes. 
+
+---
+
+# 60) Compare between wireframes, mockups, and prototypes.
+
+## Answer:
+
+| Feature     | Wireframe             | Mockup                   | Prototype             |
+| ----------- | --------------------- | ------------------------ | --------------------- |
+| Fidelity    | Low                   | Medium–High              | Medium–High           |
+| Interaction | None                  | Static                   | Interactive           |
+| Purpose     | Documentation         | Feedback & visualization | User testing          |
+| Cost        | Low                   | Medium                   | High                  |
+| Appearance  | Black/white structure | Visual design            | Functional simulation |
+
+Each design tool serves a different purpose during system development. 
+
